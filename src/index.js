@@ -10,9 +10,9 @@ import Product_detail from './screen/Productdetail/Productdetail.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
+    <App />
     {/* <Login/> */}
-    <Product_detail/>
+    {/* <Product_detail/> */}
      {/* <Register/> */}
   </React.StrictMode>
 );
